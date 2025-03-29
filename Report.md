@@ -1,0 +1,3 @@
+# Pac-Man Project - Part 1: Collaborative Development Report
+
+Our team consisted of Nahom, Gautham, Vishnu, Gaoussou, and Ebony. Nahom implemented feature/player + test_player.py, Gautham implemented feature/ghost, Vishnu implemented feature/game_board, Gaoussou implemented feature/item, and Ebony reported an error + provided a correct test case. We all collaborated and contributed on this project together.
