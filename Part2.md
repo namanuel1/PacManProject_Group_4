@@ -90,14 +90,14 @@ Create a CI workflow in `.github/workflows/ci.yml` that performs the following a
 
 ### **4. Conduct Pull Requests and Perform Code Reviews - 10 points**
 Ensure proper collaboration by:
-- Submitting pull requests for major changes.
-- Reviewing and approving team members' code updates before merging.
-- Providing constructive feedback on improvements and code quality.
+- Submitting pull requests for changes if needed.
+- Reviewing and approving team members' code updates before merging if needed.
+- Providing constructive feedback on improvements and code quality if needed.
 
 ---
 
 ### **5. Report - 10 points**
-Write a markdown report (2-3 sentences) in the main branch outlining each team member’s contributions to the project. Be honest about the work completed and the role each person played in implementing features, filling in tests, and contributing to the collaboration process.
+Write a markdown report (2-3 sentences) in the main branch outlining each team member’s contributions to the project. Be honest about the work completed and the role each person played.
 
 **Note**: If you feel that a team member misrepresented their contributions, make a private Piazza post to address the issue. We will verify reports to ensure fairness. Regardless, we will be checking to see if what the report says aligns with what each person did
 
