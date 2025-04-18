@@ -14,4 +14,3 @@ test_ghost.py
 test_items.py
 test_gameboard.py
 test_game_logic.py
-*.env
