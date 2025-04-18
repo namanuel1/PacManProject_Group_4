@@ -1,0 +1,23 @@
+name: CI Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the Code
+        uses: actions/checkout
+
+      - name: Setup Python Environment
+        uses: actions/setup-python
+        with:
+          python-version: "3.10"
