@@ -1,4 +1,4 @@
-# Pac-Man Project - Part 1: Collaborative Development Report
+# Pac-Man Project - Part 2: Collaborative Development Report
 
 Ebony was responsible for completing Step 1, forking the repository, setting up collaborators, and configuring remotes. Ebony also used `grep` and `sed` commands to rename instances of player to pacman throughout the project:
 ### Find and replace all instances of 'player' in files
